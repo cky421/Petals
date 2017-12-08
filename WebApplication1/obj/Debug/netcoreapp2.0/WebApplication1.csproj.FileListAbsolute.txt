@@ -1,0 +1,12 @@
+E:\项目及相关文档\个人测试项目\Petals\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+E:\项目及相关文档\个人测试项目\Petals\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+E:\项目及相关文档\个人测试项目\Petals\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+E:\项目及相关文档\个人测试项目\Petals\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+E:\项目及相关文档\个人测试项目\Petals\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+E:\项目及相关文档\个人测试项目\Petals\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
+E:\项目及相关文档\个人测试项目\Petals\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+E:\项目及相关文档\个人测试项目\Petals\WebApplication1\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\项目及相关文档\个人测试项目\Petals\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+E:\项目及相关文档\个人测试项目\Petals\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+E:\项目及相关文档\个人测试项目\Petals\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+E:\项目及相关文档\个人测试项目\Petals\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb

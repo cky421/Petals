@@ -1,0 +1,6 @@
+E:\项目及相关文档\个人测试项目\Petals\Petals.Base.Log.NLog\obj\Debug\netcoreapp2.0\Petals.Base.Log.NLog.csproj.CoreCompileInputs.cache
+E:\项目及相关文档\个人测试项目\Petals\Petals.Base.Log.NLog\obj\Debug\netcoreapp2.0\Petals.Base.Log.NLog.AssemblyInfoInputs.cache
+E:\项目及相关文档\个人测试项目\Petals\Petals.Base.Log.NLog\obj\Debug\netcoreapp2.0\Petals.Base.Log.NLog.AssemblyInfo.cs
+E:\项目及相关文档\个人测试项目\Petals\Petals.Base.Log.NLog\bin\Debug\netcoreapp2.0\Petals.Base.Log.NLog.deps.json
+E:\项目及相关文档\个人测试项目\Petals\Petals.Base.Log.NLog\bin\Debug\netcoreapp2.0\Petals.Base.Log.NLog.dll
+E:\项目及相关文档\个人测试项目\Petals\Petals.Base.Log.NLog\obj\Debug\netcoreapp2.0\Petals.Base.Log.NLog.csprojResolveAssemblyReference.cache

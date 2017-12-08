@@ -1,0 +1,11 @@
+E:\项目及相关文档\个人测试项目\Petals\Petals.Blog\bin\Debug\netcoreapp2.0\Petals.Blog.deps.json
+E:\项目及相关文档\个人测试项目\Petals\Petals.Blog\bin\Debug\netcoreapp2.0\Petals.Blog.runtimeconfig.json
+E:\项目及相关文档\个人测试项目\Petals\Petals.Blog\bin\Debug\netcoreapp2.0\Petals.Blog.runtimeconfig.dev.json
+E:\项目及相关文档\个人测试项目\Petals\Petals.Blog\bin\Debug\netcoreapp2.0\Petals.Blog.dll
+E:\项目及相关文档\个人测试项目\Petals\Petals.Blog\obj\Debug\netcoreapp2.0\Petals.Blog.csprojResolveAssemblyReference.cache
+E:\项目及相关文档\个人测试项目\Petals\Petals.Blog\obj\Debug\netcoreapp2.0\Petals.Blog.csproj.CoreCompileInputs.cache
+E:\项目及相关文档\个人测试项目\Petals\Petals.Blog\obj\Debug\netcoreapp2.0\Petals.Blog.AssemblyInfoInputs.cache
+E:\项目及相关文档\个人测试项目\Petals\Petals.Blog\obj\Debug\netcoreapp2.0\Petals.Blog.AssemblyInfo.cs
+E:\项目及相关文档\个人测试项目\Petals\Petals.Blog\bin\Debug\netcoreapp2.0\Petals.Blog.pdb
+E:\项目及相关文档\个人测试项目\Petals\Petals.Blog\obj\Debug\netcoreapp2.0\Petals.Blog.dll
+E:\项目及相关文档\个人测试项目\Petals\Petals.Blog\obj\Debug\netcoreapp2.0\Petals.Blog.pdb
