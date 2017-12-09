@@ -1,0 +1,14 @@
+E:\项目及相关文档\个人测试项目\Petals\ConsoleApp1\bin\Debug\netcoreapp2.0\nlog.config
+E:\项目及相关文档\个人测试项目\Petals\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+E:\项目及相关文档\个人测试项目\Petals\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+E:\项目及相关文档\个人测试项目\Petals\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+E:\项目及相关文档\个人测试项目\Petals\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+E:\项目及相关文档\个人测试项目\Petals\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+E:\项目及相关文档\个人测试项目\Petals\ConsoleApp1\bin\Debug\netcoreapp2.0\Petals.Base.Log.NLog.dll
+E:\项目及相关文档\个人测试项目\Petals\ConsoleApp1\bin\Debug\netcoreapp2.0\Petals.Base.Log.NLog.pdb
+E:\项目及相关文档\个人测试项目\Petals\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\项目及相关文档\个人测试项目\Petals\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\项目及相关文档\个人测试项目\Petals\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\项目及相关文档\个人测试项目\Petals\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+E:\项目及相关文档\个人测试项目\Petals\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+E:\项目及相关文档\个人测试项目\Petals\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb

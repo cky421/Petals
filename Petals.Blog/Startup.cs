@@ -28,6 +28,7 @@ namespace Petals.Blog
             //services.AddIdentityServer().AddDeveloperSigningCredential();
             services.AddDbContext<BlogDbContext>(option => option.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddMvc();
+            services.AddLogging();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -37,7 +38,7 @@ namespace Petals.Blog
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            
             //app.UseIdentityServer();
             app.UseMvc();
         }
